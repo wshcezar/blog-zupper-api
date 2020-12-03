@@ -2,6 +2,7 @@
 
 - Exemplo de endpoint:
 
+
     - List all blogs:
 
         curl: localhost:8080/api/blogs
@@ -14,8 +15,7 @@
         Content-Type: application/json
 
         - Payload:
-
-        
+                
             {
                 "name": "Washington Wiltenburg",
                 "nickname": "@cumpadi",
